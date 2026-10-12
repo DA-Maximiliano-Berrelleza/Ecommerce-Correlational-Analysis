@@ -1,5 +1,7 @@
 # NovaRetail+ — Análisis de correlaciones del comportamiento del cliente
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DA-Maximiliano-Berrelleza/Ecommerce-Correlational-Analysis/blob/main/Ecommerce_Correlational_Analysis.ipynb)
+
 ## Objetivo
 
 Identificar qué comportamientos del cliente están más fuertemente
@@ -45,8 +47,7 @@ Notebook ejecutado en Google Colab.
 
 1. Descarga `novaretail_comportamiento_clientes_2024.csv`
    desde este repositorio.
-2. Abre `Ecommerce_Correlational_Analysis.ipynb` y haz clic
-   en **Open in Colab**.
+2. Haz clic en el botón **Open in Colab** al inicio de este README.
 3. En el panel **Archivos** de Colab, sube el CSV.
 4. Comprueba que su ruta sea:
    `/content/novaretail_comportamiento_clientes_2024.csv`.
